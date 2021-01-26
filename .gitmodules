@@ -1,0 +1,3 @@
+[submodule "SORCER"]
+	path = SORCER
+	url = git@github.com:mwsobol/SORCER-multiFi.git
